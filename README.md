@@ -1,8 +1,8 @@
-# ##### #### # ##### ### Repositorio oficial de la api de colores
+# Repositorio oficial de la api de colores
 
-#### ##### ## INTRODUCCION: Esta api cuenta con las peticiones HTTP, todo esta bajo formato Json, con una base de datos inicial con una tabla llamada colores.
+# INTRODUCCION: Esta api cuenta con las peticiones HTTP, todo esta bajo formato Json, con una base de datos inicial con una tabla llamada colores.
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 #### - laravel 8
 #### - composer
 #### - postman
@@ -31,4 +31,6 @@
 #### si todo te salio bien te empezara a correr el servidor con la direccion y el puerto
 [![](https://i.stack.imgur.com/zxVGH.png)](https://i.stack.imgur.com/zxVGH.png)
 #### despues puedes minimizar tu consola y vas a tu navegador y ingresas la siguiente url [http://127.0.0.1:8000/api/colores](http://127.0.0.1:8000/api/colores), donde ya te debio aparecer una vista con los datos de la api de colores y ya puedes empezar a realizar las acciones que quieras
+
+#### Este es el link del [repositorio github](https://github.com/ojcarrillomiranda "repositorio api de colores")
 
