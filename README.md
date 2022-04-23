@@ -26,7 +26,7 @@
 #### ya con estos 3 pasos puedes descomprimir el archivo rar y utilizar la api.
 
 # CORRER EL PROYECTO
-#### despues de haberte asegurado que te encuentras en la carpeta donde esta la api desde tu consola de comandos preferida puedes correr el comando php artisan serve y das enter
+#### despues de haberte asegurado que te encuentras en la carpeta donde esta la api y que ya configurastes los parametros de la base de datos en el archivo .env desde tu consola de comandos preferida puedes correr el comando php artisan migrate --seed con este comando creas la tabla colores y agregas los datos de los colores por defecto a la base de datos mysql, despues corres php artisan serve y das enter
 [![](https://media.geeksforgeeks.org/wp-content/uploads/20191219172007/Laravel-Basic-Artisan-Commands-Start-Server-GfG.png)](https://media.geeksforgeeks.org/wp-content/uploads/20191219172007/Laravel-Basic-Artisan-Commands-Start-Server-GfG.png)
 #### si todo te salio bien te empezara a correr el servidor con la direccion y el puerto
 [![](https://i.stack.imgur.com/zxVGH.png)](https://i.stack.imgur.com/zxVGH.png)
